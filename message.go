@@ -1,4 +1,4 @@
-package chaos_tcp
+package tcp
 
 type Message struct {
 	Type uint8
