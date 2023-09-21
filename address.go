@@ -1,4 +1,4 @@
-package chaos_tcp
+package tcp
 
 import "strings"
 
